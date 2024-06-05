@@ -1,0 +1,10 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(30, 30, 30);
+}
+
+.desc {
+    color: darkgreen;
+    font-size: 18px;
+    font-weight: 700;
+}
