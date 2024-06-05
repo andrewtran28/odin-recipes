@@ -1,6 +1,12 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(30, 30, 30);
+    background:#ddddff;
+}
+
+#title {
+    color: blue;
+    background-color: lightgray;
 }
 
 .desc {
